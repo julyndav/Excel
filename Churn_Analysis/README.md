@@ -1,6 +1,6 @@
 
 
-# Customer Churn Analysis Dashboard
+# Excel Customer Churn Analysis Dashboard
 
 ## Project Summary
 
@@ -35,47 +35,48 @@ Understanding these patterns allows organizations to develop targeted strategies
 The dataset used for this project is structured to resemble a telecommunications customer database and contains a range of attributes describing customer demographics, service usage, and billing patterns.
 
 Key fields include:
+<ul>
+<li>Customer account tenure</li>
 
-Customer account tenure
+<li>Customer demographic attributes</li>
 
-State and demographic attributes
+<li>Contract type (Month-to-Month, One-Year, Two-Year)</li>
 
-Contract type (Month-to-Month, One-Year, Two-Year)
+<li>Payment method (Direct Debit, Credit Card, Paper Check)</li>
 
-Payment method
+<li>International and data service plans</li>
 
-International and data service plans
+<li>Customer service call frequency</li>
 
-Customer service call frequency
+<li>Monthly and total billing charges</li>
 
-Monthly and total billing charges
+<li>Churn classification and churn reason</li>
+</ul>
 
-Churn classification and churn reason
-
-In total, the dataset includes 6,669 customers, providing a realistic sample size for churn analysis.
+In total, the dataset includes 6,688 customers, providing a realistic sample size for churn analysis.
 
 ## Dashboard Components
 
 The Excel dashboard provides several visual perspectives designed to make churn patterns easier to interpret.
 
-Key Performance Indicators
+### Key Performance Indicators
 
 The dashboard highlights several key business metrics:
+<ul>
+<li>Total customers</li>
 
-Total customers
+<li>Number of churned customers</li>
 
-Number of churned customers
+<li>Overall churn rate</li>
 
-Overall churn rate
+<li>Customer retention rate</li>
 
-Customer retention rate
+<li>Average monthly customer revenue</li>
 
-Average monthly customer revenue
+<li>Total historical revenue</li>
 
-Total historical revenue
-
-Estimated monthly and annual revenue lost due to churn
-
+<li>Estimated monthly and annual revenue lost due to churn</li>
+</ul>
 These indicators provide a quick snapshot of the overall health of the customer base.
 
 ## Churn Drivers
