@@ -30,7 +30,7 @@ What actions could help reduce churn and improve retention?
 
 Understanding these patterns allows organizations to develop targeted strategies to protect revenue and strengthen customer loyalty.
 
-Dataset Overview
+## Dataset Overview
 
 The dataset used for this project is structured to resemble a telecommunications customer database and contains a range of attributes describing customer demographics, service usage, and billing patterns.
 
@@ -54,7 +54,7 @@ Churn classification and churn reason
 
 In total, the dataset includes 6,669 customers, providing a realistic sample size for churn analysis.
 
-Dashboard Components
+## Dashboard Components
 
 The Excel dashboard provides several visual perspectives designed to make churn patterns easier to interpret.
 
@@ -78,7 +78,7 @@ Estimated monthly and annual revenue lost due to churn
 
 These indicators provide a quick snapshot of the overall health of the customer base.
 
-Churn Drivers
+## Churn Drivers
 
 A visual breakdown of churn reasons identifies the primary factors influencing customer departures, including:
 
@@ -92,7 +92,7 @@ Other customer experience issues
 
 This view helps highlight which problems have the greatest financial impact on the business.
 
-Customer Segment Analysis
+## Customer Segment Analysis
 
 Several charts analyze churn patterns across different customer segments, including:
 
@@ -106,7 +106,7 @@ Customer service call volume
 
 Segmenting churn in this way helps identify which types of customers are most likely to leave.
 
-Revenue Impact
+## Revenue Impact
 
 The dashboard also estimates the financial consequences of churn by calculating:
 
@@ -118,11 +118,11 @@ Average lifetime revenue lost per churned customer
 
 This analysis helps translate churn behavior into clear financial terms.
 
-Dashboard Preview
+## Dashboard Preview
 
 (Insert dashboard screenshot here)
 
-Tools Used
+## Tools Used
 
 The analysis and dashboard were built using the following tools:
 
@@ -136,7 +136,7 @@ Dashboard Layout Design
 
 KPI Calculations
 
-Key Findings
+## Key Findings
 
 Several important patterns emerged from the analysis.
 
@@ -150,7 +150,7 @@ Interestingly, customer service call volume did not show a strong correlation wi
 
 While smaller in comparison to competitor-related churn, internal service issues still appeared in several churn categories, including dissatisfaction and other support-related complaints. These findings suggest opportunities for improvement through customer experience initiatives and staff training.
 
-Key Takeaways
+## Key Takeaways
 
 This analysis highlights several important lessons:
 
@@ -184,7 +184,7 @@ Target High-Risk Customer Segments
 
 Using churn segmentation insights, companies can develop targeted outreach campaigns for customer groups most likely to leave.
 
-Conclusion
+## Conclusion
 
 Customer churn represents a significant risk to long-term revenue growth, particularly in competitive industries where customers can easily switch providers.
 
