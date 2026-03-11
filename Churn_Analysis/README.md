@@ -1,18 +1,20 @@
 
 
-# Telecom Customer Churn Analysis Dashboard
+# Customer Churn Analysis Dashboard
 
 ## Project Summary
 
-Customer retention is a critical factor in maintaining revenue growth for subscription-based businesses. This project explores customer churn patterns using a telecommunications-style dataset containing more than 6,600 customer records.
+Customer retention is a critical factor in maintaining revenue growth for subscription-based businesses. This project explores customer churn patterns using a telecommunications-style dataset containing more than <b>6,600 customer records.</b>
 
-The goal of the analysis was to identify why customers leave, determine which groups are most at risk, and estimate the financial impact of churn on the organization.
+The goal of the analysis was to identify <b>why customers leave</b>, determine <b>which groups are most at risk</b>, and estimate the <b>financial impact of churn on the organization.</b>
 
-Using Microsoft Excel, an interactive dashboard was built to transform raw customer data into actionable insights that can support business decisions related to pricing, retention strategies, and customer experience improvements.
+Using Microsoft Excel, an interactive dashboard was built to transform raw customer data into <b>actionable insights that can support business decisions related to pricing, retention strategies, and customer experience improvements.</b>
+<p>
+  
+</p>
 
 
-
-Business Questions
+## Business Questions
 
 This project focuses on answering several key questions commonly faced by business leaders:
 
