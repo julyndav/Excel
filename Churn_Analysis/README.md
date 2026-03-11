@@ -18,16 +18,16 @@ Using Microsoft Excel, an interactive dashboard was built to transform raw custo
 
 This project focuses on answering several key questions commonly faced by business leaders:
 
-Which customers are most likely to churn?
+<ul>
+<li> Which customers are most likely to churn? </li>
+<li>What are the primary reasons customers decide to leave?</li>
 
-What are the primary reasons customers decide to leave?
+<li>Are certain contract types or payment behaviors linked to higher churn?</li>
 
-Are certain contract types or payment behaviors linked to higher churn?
+<li>How much revenue is being lost due to customer attrition?</li>
 
-How much revenue is being lost due to customer attrition?
-
-What actions could help reduce churn and improve retention?
-
+<li>What actions could help reduce churn and improve retention?</li>
+</ul>
 Understanding these patterns allows organizations to develop targeted strategies to protect revenue and strengthen customer loyalty.
 
 ## Dataset Overview
