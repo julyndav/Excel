@@ -1,4 +1,3 @@
-![banner](https://github.com/julyndav/Excel/blob/main/Churn_Analysis/banner.png)
 
 # Excel Customer Churn Analysis Dashboard
 
