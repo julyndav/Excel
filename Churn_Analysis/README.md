@@ -131,7 +131,7 @@ This analysis helps translate churn behavior into clear financial terms.
 
 ## Dashboard Preview
 
-![MainDB]([https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/UKRail%20Img1.png](https://github.com/julyndav/Excel/blob/main/Churn_Analysis/banner.png))
+![MainDB](https://github.com/julyndav/Excel/blob/main/Churn_Analysis/Dashboard_image.png)
 <p></p>
 <br>
 
