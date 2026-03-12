@@ -4,11 +4,16 @@
 
 ## Project Summary
 
-Customer retention is a critical factor in maintaining revenue growth for subscription-based businesses. This project explores customer churn patterns using a telecommunications-style dataset containing more than <b>6,600 customer records.</b>
+Customer retention is a major factor in maintaining revenue growth for subscription-based businesses. This project explores customer churn patterns using a telecommunications dataset containing more than <b>6,600 customer records.</b>
 
 The goal of the analysis was to identify <b>why customers leave</b>, determine <b>which groups are most at risk</b>, and estimate the <b>financial impact of churn on the organization.</b>
 
-Using Microsoft Excel, an interactive dashboard was built to transform raw customer data into <b>actionable insights that can support business decisions related to pricing, retention strategies, and customer experience improvements.</b>
+Using Microsoft Excel, an informative dashboard was built to transform raw customer data into <b>actionable insights that can support business decisions related to pricing, retention strategies, and customer experience improvements.</b> There is also a
+corresponding Power Point presentation/Slide 
+
+
+
+deck for presentation to management/stakeholders.
 <p>
 <br>
 
@@ -17,7 +22,7 @@ Using Microsoft Excel, an interactive dashboard was built to transform raw custo
 This project focuses on answering several key questions commonly faced by business leaders:
 
 <ul>
-<li> Which customers are most likely to churn? </li>
+<li>Which customers are most likely to churn? </li>
 <li>What are the primary reasons customers decide to leave?</li>
 
 <li>Are certain contract types or payment behaviors linked to higher churn?</li>
