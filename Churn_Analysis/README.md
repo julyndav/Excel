@@ -37,7 +37,7 @@ Understanding these patterns allows organizations to develop targeted strategies
 
 ## Dataset Overview
 
-The dataset used for this project is structured to resemble a telecommunications customer database and contains a range of attributes describing customer demographics, service usage, and billing patterns.
+The dataset used for this project is a telecommunications customer database and contains a range of attributes describing customer demographics, service usage, and billing patterns.
 
 Key fields include:
 <ul>
