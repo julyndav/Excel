@@ -1,4 +1,4 @@
-
+![banner](https://github.com/julyndav/Excel/blob/main/Churn_Analysis/banner.png)
 
 # Excel Customer Churn Analysis Dashboard
 
@@ -136,7 +136,7 @@ This analysis helps translate churn behavior into clear financial terms.
 
 ## Dashboard Preview
 
-(Insert dashboard screenshot here)
+![MainDB]([https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/UKRail%20Img1.png](https://github.com/julyndav/Excel/blob/main/Churn_Analysis/banner.png))
 <p></p>
 <br>
 
