@@ -10,9 +10,7 @@ The goal of the analysis was to identify <b>why customers leave</b>, determine <
 
 Using Microsoft Excel, an interactive dashboard was built to transform raw customer data into <b>actionable insights that can support business decisions related to pricing, retention strategies, and customer experience improvements.</b>
 <p>
-  
-</p>
-
+<br>
 
 ## Business Questions
 
@@ -29,6 +27,8 @@ This project focuses on answering several key questions commonly faced by busine
 <li>What actions could help reduce churn and improve retention?</li>
 </ul>
 Understanding these patterns allows organizations to develop targeted strategies to protect revenue and strengthen customer loyalty.
+<p></p>
+<br>
 
 ## Dataset Overview
 
@@ -54,6 +54,8 @@ Key fields include:
 </ul>
 
 In total, the dataset includes 6,688 customers, providing a realistic sample size for churn analysis.
+<p></p>
+<br>
 
 ## Dashboard Components
 
@@ -78,112 +80,133 @@ The dashboard highlights several key business metrics:
 <li>Estimated monthly and annual revenue lost due to churn</li>
 </ul>
 These indicators provide a quick snapshot of the overall health of the customer base.
+<p></p>
+<br>
 
 ## Churn Drivers
 
 A visual breakdown of churn reasons identifies the primary factors influencing customer departures, including:
+<ul>
+<li>Competitor offers</li>
 
-Competitor offers
+<li>Dissatisfaction with service</li>
 
-Dissatisfaction with service
+<li>Pricing concerns</li>
 
-Pricing concerns
-
-Other customer experience issues
-
+<li>Other customer experience issues</li>
+</ul>
 This view helps highlight which problems have the greatest financial impact on the business.
+<p></p>
+<br>
 
 ## Customer Segment Analysis
 
 Several charts analyze churn patterns across different customer segments, including:
+<ul>
+<li>Contract type</li>
 
-Contract type
+<li>Payment method</li>
 
-Payment method
+<li>Age groups</li>
 
-Age groups
-
-Customer service call volume
-
+<li>Customer service call volume</li>
+</ul>
 Segmenting churn in this way helps identify which types of customers are most likely to leave.
+<p></p>
+<br>
 
 ## Revenue Impact
 
 The dashboard also estimates the financial consequences of churn by calculating:
+<ul>
+<li>Estimated monthly revenue loss</li>
 
-Estimated monthly revenue loss
+<li>Projected annual revenue impact</li>
 
-Projected annual revenue impact
-
-Average lifetime revenue lost per churned customer
-
+<li>Average lifetime revenue lost per churned customer</li>
+</ul>
 This analysis helps translate churn behavior into clear financial terms.
+<p></p>
+<br>
 
 ## Dashboard Preview
 
 (Insert dashboard screenshot here)
+<p></p>
+<br>
 
 ## Tools Used
 
 The analysis and dashboard were built using the following tools:
+<ul>
+<li>Microsoft Excel</li>
 
-Microsoft Excel
+<li>Pivot Tables</li>
 
-Pivot Tables
+<li>Pivot Charts</li>
 
-Pivot Charts
+<li>Dashboard Layout Design</li>
 
-Dashboard Layout Design
-
-KPI Calculations
+<li>KPI Calculations</li>
+<li>Power Point - Slide deck</li>
+</ul>
+<p></p>
+<br>
 
 ## Key Findings
 
 Several important patterns emerged from the analysis.
 
-Out of 6,669 total customers, 1,796 customers churned, resulting in an overall churn rate of approximately 26.9%. Based on average customer revenue levels, this churn represents an estimated $668K in lost annual revenue.
+Out of <b>6,688 total customers, 1,796 customers churned</b>, resulting in an overall <b>churn rate of approximately 26.9%</b>. Based on average customer revenue levels, this churn represents an <b>estimated $668K in lost annual revenue.</b>
 
-Contract structure proved to be one of the most influential churn indicators. Customers on Month-to-Month contracts accounted for the vast majority of churn, representing approximately 88% of all customer departures. This suggests that customers without long-term commitments are significantly more likely to switch providers.
+Contract structure proved to be one of the most influential churn indicators. Customers on<b> Month-to-Month contracts</b> accounted for the vast majority of churn, representing approximately <b>88%</b> of all customer departures. This suggests that customers without long-term commitments are significantly more likely to switch providers.
 
-Competitive pressure also played a major role. Churn associated with competitor-related reasons accounted for more than $620K in lost revenue, indicating that pricing, promotions, or service bundles offered by competitors may be attracting customers away.
+Competitive pressure also played a major role. Churn associated with competitor-related reasons accounted for more than <b>$620K</b> in lost revenue, indicating that pricing, promotions, or service bundles offered by competitors may be attracting customers away.
 
-Interestingly, customer service call volume did not show a strong correlation with churn. The difference in churn rates between customers with low and high service call activity was only about 4%, suggesting that support interactions alone are not a major driver of customer departures.
+Interestingly, customer service call volume did not show a strong correlation with churn. The difference in churn rates between customers with low and high service call activity was only about <b>4%</b>, suggesting that support interactions alone are not a major driver of customer departures.
 
 While smaller in comparison to competitor-related churn, internal service issues still appeared in several churn categories, including dissatisfaction and other support-related complaints. These findings suggest opportunities for improvement through customer experience initiatives and staff training.
+<p></p>
+<br>
 
 ## Key Takeaways
 
 This analysis highlights several important lessons:
+<ul>
+<li>Contract flexibility strongly influences customer retention</li>
 
-Contract flexibility strongly influences customer retention
+<li>Competitive market pressures significantly impact churn behavior</li>
 
-Competitive market pressures significantly impact churn behavior
+<li>Revenue loss from churn can accumulate quickly across large customer bases</li>
 
-Revenue loss from churn can accumulate quickly across large customer bases
+<li>Customer segmentation is essential for identifying high-risk groups</li>
 
-Customer segmentation is essential for identifying high-risk groups
+<li>Interactive dashboards help transform complex datasets into clear business insights
+</ul>
+<p></p>
+<br>
 
-Interactive dashboards help transform complex datasets into clear business insights
-
-Strategic Recommendations
+## Strategic Recommendations
 
 Based on the analysis, several strategies could help reduce customer churn.
 
-Improve Retention Among Short-Term Contracts
+### Improve Retention Among Short-Term Contracts
 
 Encouraging month-to-month customers to transition to longer-term contracts through loyalty incentives or bundled discounts could significantly reduce churn risk.
 
-Strengthen Competitive Positioning
+### Strengthen Competitive Positioning
 
 Since competitor offers appear to drive a large portion of churn, evaluating pricing strategies and promotional offerings may help retain price-sensitive customers.
 
-Enhance Customer Experience
+### Enhance Customer Experience
 
 Although service-related churn is smaller compared to competitor factors, improving customer support quality and response times could still help reduce avoidable customer departures.
 
-Target High-Risk Customer Segments
+### Target High-Risk Customer Segments
 
 Using churn segmentation insights, companies can develop targeted outreach campaigns for customer groups most likely to leave.
+<p></p>
+<br>
 
 ## Conclusion
 
