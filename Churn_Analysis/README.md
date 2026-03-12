@@ -57,6 +57,24 @@ In total, the dataset includes 6,688 customers, providing a realistic sample siz
 <p></p>
 <br>
 
+## Tools Used
+
+The analysis and dashboard were built using the following tools:
+<ul>
+<li>Microsoft Excel</li>
+
+<li>Pivot Tables</li>
+
+<li>Pivot Charts</li>
+
+<li>Dashboard Layout Design</li>
+
+<li>KPI Calculations</li>
+<li>Power Point - Slide deck</li>
+</ul>
+<p></p>
+<br>
+
 ## Dashboard Components
 
 The Excel dashboard provides several visual perspectives designed to make churn patterns easier to interpret.
@@ -135,23 +153,6 @@ This analysis helps translate churn behavior into clear financial terms.
 <p></p>
 <br>
 
-## Tools Used
-
-The analysis and dashboard were built using the following tools:
-<ul>
-<li>Microsoft Excel</li>
-
-<li>Pivot Tables</li>
-
-<li>Pivot Charts</li>
-
-<li>Dashboard Layout Design</li>
-
-<li>KPI Calculations</li>
-<li>Power Point - Slide deck</li>
-</ul>
-<p></p>
-<br>
 
 ## Key Findings
 
