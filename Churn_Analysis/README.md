@@ -166,11 +166,13 @@ Out of <b>6,688 total customers, 1,796 customers churned</b>, resulting in an ov
 
 Contract structure proved to be one of the most influential churn indicators. Customers on<b> Month-to-Month contracts</b> accounted for the vast majority of churn, representing approximately <b>88%</b> of all customer departures. This suggests that customers without long-term commitments are significantly more likely to switch providers.
 
-Competitive pressure also played a major role. Churn associated with competitor-related reasons accounted for more than <b>$620K</b> in lost revenue, indicating that pricing, promotions, or service bundles offered by competitors may be attracting customers away.
+Competitive pressure also played a major role. Churned customers associated with competitor-related reasons accounted for more than <b>$620K</b> in lost revenue, indicating that pricing, promotions, or service bundles offered by competitors may be attracting customers away.
 
 Interestingly, customer service call volume did not show a strong correlation with churn. The difference in churn rates between customers with low and high service call activity was only about <b>4%</b>, suggesting that support interactions alone are not a major driver of customer departures.
 
 While smaller in comparison to competitor-related churn, internal service issues still appeared in several churn categories, including dissatisfaction and other support-related complaints. These findings suggest opportunities for improvement through customer experience initiatives and staff training.
+
+There is no comparisons associated with gender as there is on a <b>1.2%</b> difference. The genders were pretty evenly divided within the dataset. 
 <p></p>
 <br>
 
