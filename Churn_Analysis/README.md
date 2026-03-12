@@ -102,7 +102,7 @@ These indicators provide a quick snapshot of the overall health of the customer 
 <p></p>
 <br>
 
-## Churn Drivers
+### Churn Drivers
 
 A visual breakdown of churn reasons identifies the primary factors influencing customer departures, including:
 <ul>
@@ -118,7 +118,7 @@ This view helps highlight which problems have the greatest financial impact on t
 <p></p>
 <br>
 
-## Customer Segment Analysis
+### Customer Segment Analysis
 
 Several charts analyze churn patterns across different customer segments, including:
 <ul>
@@ -134,7 +134,7 @@ Segmenting churn in this way helps identify which types of customers are most li
 <p></p>
 <br>
 
-## Revenue Impact
+### Revenue Impact
 
 The dashboard also estimates the financial consequences of churn by calculating:
 <ul>
