@@ -15,6 +15,6 @@ Data analysis and visualization using Excel. Showcase of real world projects whe
 ## Project List:
 | Project | Description |
 | --- | --- | 
-| [NYC Dog Bites](https://github.com/julyndav/PowerBI/tree/main/NYC_Dog_Bite_Analysis) | Customer churn and revenue analysis for a Telecom company |
+| [Churn Analysis](https://github.com/julyndav/Excel/tree/main/Churn_Analysis) | Customer churn and revenue analysis for a Telecom company |
 
 
