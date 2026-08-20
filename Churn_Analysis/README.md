@@ -9,9 +9,9 @@ Analysis of <b>6,688</b> telecommunications customer records to identify churn d
 
 ## Results at a Glance
 <ul>
-<li><b>26.9% churn rate</b> — 1,796 of 6,688 customers churned, representing an estimated $668K in lost annual revenue</li>
+<li><b>26.9% churn rate:</b> 1,796 of 6,688 customers churned, representing an estimated $668K in lost annual revenue</li>
 <li><b>288% of churned customers</b> were on month-to-month contracts, making contract flexibility the single strongest churn predictor in the dataset</li>
-<li><b>$620K+ in lost revenue</b> tied to competitor-related churn — the largest single driver of departures</li>
+<li><b>$620K+ in lost revenue</b> tied to competitor-related churn; the largest single driver of departures</li>
 <li>Customer service call volume showed <b>no meaningful correlation with churn</b> (~4% difference between high- and low-contact customers) ruling out a commonly assumed cause</li>
 </ul>
 <br>
@@ -39,9 +39,9 @@ This project focuses on answering several key questions commonly faced by busine
 
 ## Key Findings
 
-<b>Contract type is the dominant churn driver.</b> Month-to-month customers accounted for 88% of all churn — customers without a long-term commitment are far more likely to leave. This single factor outweighs every other variable in the dataset.
+<b>Contract type is the dominant churn driver.</b> Month-to-month customers accounted for 88% of all churn. Customers without a long-term commitment are far more likely to leave. This single factor outweighs every other variable in the dataset.
 
-<b>Competitive pressure, not service quality, drives most churn.</b> Competitor-related departures accounted for over $620K in lost revenue. By contrast, customer service call volume showed almost no correlation with churn (~4% difference between high- and low-contact groups) — ruling out the common assumption that support experience is the primary churn driver.
+<b>Competitive pressure, not service quality, drives most churn.</b> Competitor-related departures accounted for over $620K in lost revenue. By contrast, customer service call volume showed almost no correlation with churn (~4% difference between high- and low-contact groups) ruling out the common assumption that support experience is the primary churn driver.
 
 <b>Churn is concentrated, not evenly distributed.</B> Gender showed no meaningful difference in churn rate (1.2%), meaning retention efforts are far better targeted at contract type and competitive positioning than demographic segmentation.
 <p></p>
