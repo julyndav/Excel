@@ -1,20 +1,20 @@
 # 📊Excel
 
-Data analysis and visualization using Excel. Showcase of real world projects where Excel is utilized to create visualizations, relay insights and provide a story telling aspect outside of the normal visualization platforms. 
+Business analysis projects built entirely in Excel. From raw data to dashboard to stakeholder-ready recommendations. These projects demonstrate how far Excel can go as an analysis and storytelling tool, without relying on separate BI platforms.
 
-**Key Features:**
+**Core techniques used across these projects:**
 <ul>
-<li>Data Cleaning and Preprocessing: Techniques to handle missing values, outliers, and data transformation.</li>
-<li>Exploratory Data Analysis (EDA): Identifying patterns, correlations, and insights through visualizations and summary statistics.</li>
-<li>Data Visualization: Creating informative and interactive plots using libraries like Matplotlib, Seaborn, and Plotly.</li>
-<li>Financial Analysis: </li>
-<li>VLOOKUP, Macros and other advanced formulas.</li>
+<li>Data cleaning and transformation (handling missing values, inconsistent formatting, outlier review).</li>
+<li>Pivot tables and pivot charts for segmentation and trend analysis.</li>
+<li>KPI calculation and dashboard design.</li>
+<li>Advanced formulas, VLOOKUP/XLOOKUP, and macros for automation.</li>
+<li>Translating findings into stakeholder-facing recommendations.</li>
 </ul>
 <p></p>
 
 ## Project List:
 | Project | Description |
 | --- | --- | 
-| [Churn Analysis](https://github.com/julyndav/Excel/tree/main/Churn_Analysis) | Customer churn and revenue analysis for a Telecom company |
+| [Churn Analysis](https://github.com/julyndav/Excel/tree/main/Churn_Analysis) | Analyzed 6,688 telecom customer records to identify churn drivers and quantify $668K in annual revenue impact |
 
 
