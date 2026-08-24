@@ -3,7 +3,7 @@
 
 ## Project Summary
 
-Analysis of <b>6,688</b> telecommunications customer records to identify churn drivers, quantify revenue impact, and recommend retention strategies. Built in Excel using pivot tables, pivot charts, and KPI calculations, with an accompanying stakeholder presentation deck.
+Analysis of <b>6,688</b> telecommunications customer records to identify churn drivers, quantify revenue impact, and recommend retention strategies. Built in Excel using pivot tables, pivot charts, and KPI calculations.
 <p>
 <br>
 
